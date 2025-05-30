@@ -1,0 +1,18 @@
+# Blender
+__pycache__/
+*.blend1
+*.blend2
+
+# Krita autosave
+*.kra~
+
+# Renders & exports
+*.jpg
+*.exr
+
+# System
+.DS_Store
+Thumbs.db
+
+# Editor config
+.vscode/
