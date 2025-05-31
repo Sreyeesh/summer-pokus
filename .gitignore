@@ -1,0 +1,14 @@
+# Blender
+*.blend1
+*.blend2
+__pycache__/
+
+# Krita
+*.kra~
+
+# Python
+*.pyc
+.env
+
+# General
+.DS_Store
