@@ -1,0 +1,13 @@
+.
+├── .gitattributes
+├── .gitignore
+├── README.md
+├── assets
+├── blender
+├── docs
+├── exports
+├── krita
+├── pipeline
+└── project-structure.txt
+
+7 directories, 4 files
